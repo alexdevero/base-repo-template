@@ -1,0 +1,36 @@
+{
+  "name": "project-name",
+  "description": "Project description.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://alexdevero.com"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "last 7 versions",
+      "ie >= 10"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "scripts": {
+    "build": "echo 'empty build task'",
+    "start": "echo 'empty start task'",
+    "test": "echo 'empty test test'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
